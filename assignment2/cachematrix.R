@@ -1,4 +1,4 @@
-## https://github.com/RajeshreeP/rprog-015-lexical-scoping-assignment2
+## https://github.com/RajeshreeP/datasciencecoursera/assignment2
 ## 1st commit SHA-1 hash identifier: 
 
 ## makeCacheMatrix function creates a special "matrix",
